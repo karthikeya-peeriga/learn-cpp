@@ -1,0 +1,7 @@
+This file contains basic hello world like program, along with single/multiline commenting, and 
+more escape sequencing. 
+
+Can also add \n sequencing by using <<end1
+
+cout << "something"; 
+prints something to the console, it is read as 'see out'

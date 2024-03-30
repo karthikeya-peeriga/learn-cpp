@@ -1,0 +1,3 @@
+Source code contains directions to make "variables"
+
+Variables are representation of a value stored, To be used, reused for any intent/puposes
